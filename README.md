@@ -1,16 +1,32 @@
-# e_commers_app_sample
+# 🛍️ E-Commerce App Demo
 
-A new Flutter project.
+A demo e-commerce application built with Flutter showcasing essential features like product listing, cart, and checkout flows.
 
-## Getting Started
+## 💡 Features
 
-This project is a starting point for a Flutter application.
+- Browse products with images, titles, prices
+- Add items to cart with quantity and total price
+- Remove items from cart
+- Clean, responsive UI supporting mobile, web, and desktop
+- Modular code structure with separate screens and business logic
+- Supports Android, iOS, Web, Windows (multi-platform)
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/krupal22/E-Commers-App-Demo/master/assets/ss/ss1.png" width="30%" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/krupal22/E-Commers-App-Demo/master/assets/ss/ss2.png" width="30%" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/krupal22/E-Commers-App-Demo/master/assets/ss/ss3.png" width="30%" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/krupal22/E-Commers-App-Demo/master/assets/ss/ss4.png" width="30%" style="margin: 10px;"/>
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+*Note: Update image paths with your actual screenshots.*
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Flutter SDK installed (>= 2.0)
+- Supported platforms configured (Android/iOS/Web/Desktop)
+- (Optional) An IDE like VS Code or Android Studio
+
